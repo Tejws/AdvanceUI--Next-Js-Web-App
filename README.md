@@ -13,7 +13,7 @@ User-Centric Approach: Crafted with your needs in mind, providing a smooth and e
 First, run the development server:
 
 ```bash
-npm run dev
+npm run dev 
 # or
 yarn dev
 # or
