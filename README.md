@@ -6,7 +6,7 @@ Key Features:
 Blazing Fast Performance: Powered by Next.js, ensuring seamless navigation and quick load times.
 Responsive Design: Tailored with Tailwind CSS, offering a beautiful and consistent look across all devices.
 User-Centric Approach: Crafted with your needs in mind, providing a smooth and enjoyable journey.
-
+ 
  
 ## Getting Started
 
