@@ -1,4 +1,4 @@
-we blend cutting-edge technology with an intuitive design to provide an exceptional user experience. Built with Next.js and Tailwind CSS, our website is fast, responsive, and tailored to meet your needs.
+ we blend cutting-edge technology with an intuitive design to provide an exceptional user experience. Built with Next.js and Tailwind CSS, our website is fast, responsive, and tailored to meet your needs.
 
 Explore our features, discover new insights, and connect with a community that values innovation and simplicity.
 
