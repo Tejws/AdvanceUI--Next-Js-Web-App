@@ -8,6 +8,11 @@ Responsive Design: Tailored with Tailwind CSS, offering a beautiful and consiste
 User-Centric Approach: Crafted with your needs in mind, providing a smooth and enjoyable journey.  
  
  ![AcernityUI1](https://github.com/user-attachments/assets/849bfdaf-1540-4613-888b-07884cbb3ace)
+![AcernityUI2](https://github.com/user-attachments/assets/22801917-4024-451b-ba2d-e8b46ca2ed80)
+![AcernityUI3](https://github.com/user-attachments/assets/afeed285-a844-4090-b5eb-fc8d85257050)
+![AcernityUI4](https://github.com/user-attachments/assets/e8752288-3702-4e51-b1b4-89c662f865af)
+![AcernityUI5](https://github.com/user-attachments/assets/34cb8450-a5f1-42a7-afe2-6950ce054b86)
+![AcernityUI6](https://github.com/user-attachments/assets/e4644268-b7f6-4b3f-821a-5a8b67c031ee)
 
 ## Getting Started
 
